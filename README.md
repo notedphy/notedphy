@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nop (aka Notedphy)</h1>
+<h1 align="center">Hi 👋, I'm Nop (aka Anothernop)</h1>
 <h3 align="center">🚀 Android Tweaker | Developer | Open Source Enthusiast</h3>
 
 <p align="center">
